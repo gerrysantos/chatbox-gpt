@@ -1,7 +1,7 @@
 # My Project Name
 
-A brief description of your project.
-Example: "This is a K-12 chatbot web application with a Node.js backend and React.js frontend."
+A brief description of my project.
+"This is a K-12 chatbot web application with a Node.js backend and React.js frontend."
 
 ---
 
